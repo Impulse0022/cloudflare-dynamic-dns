@@ -18,7 +18,7 @@ The options are as follows:
 >__-z__ *Zone*
 >> The Cloudflare zone that holds the record
 
->__-r__ *Record*
+>__-r__ *DNS Record*
 >> The Cloudflare DNS A record that will be updated
 
 >__-t__ *Token*
